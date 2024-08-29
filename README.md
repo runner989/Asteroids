@@ -10,7 +10,7 @@ To play the game, open a terminal (or command line window) and type:
 You can move around:  
 - use "a" and "d" to rotate your spaceship
 - use "w" to accelerate
-- use "d" to move backwards (reverse thrusters?) 
+- use "s" to move backwards (reverse thrusters?) 
 
 You can shoot using the "space bar"
 - When a bullet hits a big asteroid, it breaks it into two medium sized ones.  
