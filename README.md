@@ -4,8 +4,11 @@ Asteroids clone using PyGame.
 
 ## How To Play
 
+First install PyGame:
+` pip install -r requirements.txt `
+
 To play the game, open a terminal (or command line window) and type:  
-` python main.py `
+` python3 main.py `
 
 You can move around:  
 - use "a" and "d" to rotate your spaceship
